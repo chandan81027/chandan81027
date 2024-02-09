@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am Frontend Developer based in India along with that I'm a great Competitive Programmer in the word. I am Currently Pursuing Bachelor Of Technology CSE(AI/ML) From FunctionUp School Of Technology. I am very passionate about improving my coding skills & developing applications & websites. Working for myself to improve my skills. Love to Participate Coding Contest at different online judges....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan81027&label=Profile%20views&color=0e75b6&style=flat" alt="chandan81027" /> </p>
 
