@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chandan81027" target="blank"><img src="https://img.shields.io/twitter/follow/chandan81027?logo=twitter&style=for-the-badge" alt="chandan81027" /></a> </p>
 
-- 💬 Ask me about **HTML, CSS, Javascript, Java, Data Structure and Algorithms**
+- 💬 Ask me about **HTML, CSS, Javascript, React, Java, Data Structure and Algorithms**
 
 - 📫 How to reach me **chandan.kumar66084@gmail.com**
 
